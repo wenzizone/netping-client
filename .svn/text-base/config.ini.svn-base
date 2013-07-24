@@ -1,0 +1,12 @@
+[info]
+
+host        = 127.0.0.1
+username    = liuhz
+passwd      = 12345678
+port        = 22
+
+
+[file]
+
+dest_dir    = /var/www/html/net-test/net-test-perl/log
+log_dir     = /home/liuhz/net-test/net-test-log
